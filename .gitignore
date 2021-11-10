@@ -1,0 +1,10 @@
+bin 
+obj
+.vs
+Images
+packages
+DatabaseVLXD.bak
+README.md
+BUS
+DAO
+DTO
